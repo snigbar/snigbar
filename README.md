@@ -1,4 +1,6 @@
-![MasterHead](https://i.ibb.co/Rpr7H1Q/javascript-powered-multichannel.gif)
+<div align="center">
+  <img src="https://i.ibb.co/Rpr7H1Q/javascript-powered-multichannel.gif" alt="MasterHead" style="display:block; margin:auto;">
+</div>
 
 <h1 align="center">Hi 👋, I'm Md. Akbar Alam</h1>
 <h3 align="center">Building dynamic web applications with the power of MERN stack</h3>
