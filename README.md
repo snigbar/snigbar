@@ -9,11 +9,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snigbar&label=Profile%20views&color=0e75b6&style=flat" alt="snigbar" /> </p>
 
+<br>
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snigbar" alt="snigbar" /></a> </p>
-
+<br>
+<br>
 - 🌱 I’m currently learning **typeScript**
 
-- 💬 Ask me about **HTML,CSS,SASS,TAILWIND,JAVASCRIPT,BOOTSTRAP,REACT,NODE JS,EXPRESS JS, MONGODB,JWT**
+- 💬 Ask me about **HTML, CSS, SASS, TAILWIND, JAVASCRIPT, BOOTSTRAP, REACT,NODE JS, EXPRESS JS, MONGODB, JWT, Mongoose**
 
 - 📫 How to reach me **akbarmhbc@gmail.com**
 
