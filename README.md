@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/Rpr7H1Q/javascript-powered-multichannel.gif" alt="MasterHead" style="display:block; margin:auto;">
+  <img src="https://i.ibb.co/xs0jVNN/javascript-powered-multichannel.gif" alt="MasterHead" style="display:block; margin:auto;">
 </div>
 
 <h1 align="center">Hi 👋, I'm Md. Akbar Alam</h1>
