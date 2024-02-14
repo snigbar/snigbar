@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Md. Akbar Alam</h1>
-<h3 align="center">Building dynamic web applications with the power of MERN stack</h3>
+<h3 align="center">Building dynamic web applications with the power of Node Js</h3>
 <br><br>
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/wYjt9XL/Programming123najra.gif">
 
